@@ -20533,10 +20533,10 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "w-8/12 mx-auto flex items-center"
+  "class": "w-10/12 md:w-8/12 mx-auto flex items-start md:items-center"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-2/3 pr-24 relative z-10\" data-v-0611cf68><h1 class=\"text-6xl text-primary mb-10\" data-v-0611cf68> Las mejores herramientas para un emprendimiento exitoso. </h1><p class=\"text-regular leading-relaxed mb-10 text-lg\" data-v-0611cf68> ¡Que nada te impida emprender! Nosotros te ayudamos a que logres tus objetivos construyendo tu página web para potencializar tu negocio a gran velocidad. </p><a href=\"#\" class=\"font-bold text-primary flex items-center\" data-v-0611cf68><i class=\"fa fa-envelope mr-3\" data-v-0611cf68></i><span class=\"underline\" data-v-0611cf68>info@codelandstudio.com</span></a></div><div class=\"w-1/3 relative\" data-v-0611cf68><div class=\"bgImgSquare bg-muted z-1\" data-v-0611cf68></div><div class=\"relative shadow-xl\" data-v-0611cf68><img src=\"/img/Codeland_Studio_Foto_2.JPG\" class=\"w-full relative z-5 wow animate__fadeInUp\" alt=\"\" data-v-0611cf68><img src=\"/img/Logo_Codeland_Studio_Icon.svg\" class=\"h-20 w-20 rounded-full absolute bottom-4 left-4 z-1\" alt=\"\" data-v-0611cf68></div></div>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-2/3 pr-4 md:pr-24 relative z-10\" data-v-0611cf68><h1 class=\"text-2xl md:text-6xl text-primary mb-4 md:mb-10\" data-v-0611cf68> Las mejores herramientas para un emprendimiento exitoso. </h1><p class=\"text-regular leading-relaxed mb-4 md:mb-10 text-xs md:text-lg\" data-v-0611cf68> ¡Que nada te impida emprender! Nosotros te ayudamos a que logres tus objetivos construyendo tu página web para potencializar tu negocio a gran velocidad. </p><a href=\"#\" class=\"text-xs md:text-base font-bold text-primary flex items-center\" data-v-0611cf68><i class=\"fa fa-envelope mr-3\" data-v-0611cf68></i><span class=\"underline\" data-v-0611cf68>info@codelandstudio.com</span></a></div><div class=\"w-1/3 relative\" data-v-0611cf68><div class=\"bgImgSquare bg-muted z-1\" data-v-0611cf68></div><div class=\"relative shadow-xl\" data-v-0611cf68><img src=\"/img/Codeland_Studio_Foto_2.JPG\" class=\"relative z-5 coverImg wow animate__fadeInUp\" alt=\"\" data-v-0611cf68><img src=\"/img/Logo_Codeland_Studio_Icon.svg\" class=\"rounded-full coverIcon absolute bottom-4 left-4 z-1\" alt=\"\" data-v-0611cf68></div></div>", 2);
 
 var _hoisted_4 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -20565,7 +20565,7 @@ var _withScopeId = function _withScopeId(n) {
 
 var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "font-bold credits text-primary"
+    "class": "font-bold credits text-xs md:text-base text-primary hidden md:block"
   }, " 2021, Codeland Studio, Calidad y Profesionalismo. ", -1
   /* HOISTED */
   );
@@ -20573,7 +20573,7 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
 
 var _hoisted_2 = /*#__PURE__*/_withScopeId(function () {
   return /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": "font-bold followLinks text-primary"
+    "class": "font-bold followLinks text-xs md:text-base text-primary"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Síguenos en "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
     href: "#",
     "class": "underline"
@@ -20606,16 +20606,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  "class": "py-20 bg-superdark"
+  "class": "py-10 md:py-20 bg-superdark"
 };
 
 var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "w-8/12 mx-auto flex flex-col items-center justify-center"
+  "class": "w-10/12 md:w-8/12 mx-auto flex flex-col items-center justify-center"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "mx-auto"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
   src: "/img/Logo_Codeland_Studio_Oscuro.svg",
-  "class": "h-12 w-auto",
+  "class": "h-7 md:h-12 w-auto",
   alt: ""
 })])], -1
 /* HOISTED */
@@ -20642,10 +20642,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  "class": "py-24 bg-dark flex items-center space-x-24"
+  "class": "py-10 md:py-24 bg-dark flex flex-col md:flex-row items-center space-x-0 md:space-x-24"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-1/2\"><img src=\"/img/Codeland_Studio_Foto_4.jpg\" class=\"w-full h-auto shadow-xl wow animate__fadeInUp\" alt=\"\"><a href=\"\"></a></div><div class=\"w-1/2 pr-36\"><h3 class=\"text-6xl text-white mb-10\">Diseño Gráfico</h3><p class=\"text-lg text-white text-opacity-75 mb-10\"> Sabemos lo importante que es realizar campañas constantes para alcanzar a tu audiencia y lo tedioso que puede ser el tener que diseñar tus publicaciones y mantener congruencia entre estas. </p><a href=\"#\" class=\"text-white font-bold underline hover:text-opacity-75\"> Continuar leyendo </a></div>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-full md:w-1/2 pr-10 md:pr-0\"><img src=\"/img/Codeland_Studio_Foto_4.jpg\" class=\"w-full h-auto shadow-xl wow animate__fadeInUp\" alt=\"\"><a href=\"\"></a></div><div class=\"w-full md:w-1/2 p-8 md:p-0 md:pr-36\"><h3 class=\"text-2xl md:text-6xl text-white mb-7 md:mb-10\">Diseño Gráfico</h3><p class=\"text-sm md:text-lg text-white text-opacity-75 mb-7 md:mb-10\"> Sabemos lo importante que es realizar campañas constantes para alcanzar a tu audiencia y lo tedioso que puede ser el tener que diseñar tus publicaciones y mantener congruencia entre estas. </p><a href=\"#\" class=\"text-white font-bold underline hover:text-opacity-75\"> Continuar leyendo </a></div>", 2);
 
 var _hoisted_4 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -20668,10 +20668,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  "class": "py-20"
+  "class": "py-12 md:py-20"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-8/12 mx-auto flex items-start\"><a href=\"#\"><img src=\"/img/Logo_Codeland_Studio.svg\" class=\"h-12 w-auto\" alt=\"\"></a><nav class=\"ml-auto flex flex-col space-y-3 items-center\"><a href=\"#\" class=\"underline text-primary font-bold hover:text-opacity-75\">¡Adquiere una cotización hoy mismo!</a><div class=\"flex items-center space-x-7 uppercase text-xs\"><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Inicio</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Servicios</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Precios</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Contacto</a></div></nav></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-10/12 md:w-8/12 mx-auto flex flex-col md:flex-row items-center md:items-start justify-center md:justify-start space-y-10 md:space-y-0\"><a href=\"#\" class=\"block\"><img src=\"/img/Logo_Codeland_Studio.svg\" class=\"h-12 w-auto\" alt=\"\"></a><nav class=\"mx-auto md:mx-0 md:ml-auto flex flex-col space-y-3 items-center\"><a href=\"#\" class=\"underline text-center text-primary font-bold hover:text-opacity-75\">¡Adquiere una cotización hoy mismo!</a><div class=\"flex items-center space-x-4 md:space-x-7 uppercase text-xs\"><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Inicio</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Servicios</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Precios</a><a class=\"text-primary hover:text-opacity-75\" href=\"#\">Contacto</a></div></nav></div>", 1);
 
 var _hoisted_3 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -20699,10 +20699,10 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "bg-dark py-24"
+  "class": "bg-dark py-10 md:py-24"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-white flex items-center mb-10 text-3xl justify-center wow animate__fadeInUp\" data-v-387d06a1><p data-v-387d06a1><span class=\"mr-3\" data-v-387d06a1>Síguenos en: </span> <a href=\"#\" class=\"pattayaFont\" data-v-387d06a1>@codelandstudio</a></p></div><div class=\"flex items-center space-x-3 px-3\" data-v-387d06a1><div class=\"w-1/5\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/5\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/5\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/5\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/5\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div></div>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"text-white flex items-center mb-5 md:mb-10 text-lg md:text-3xl justify-center wow animate__fadeInUp\" data-v-387d06a1><p data-v-387d06a1><span class=\"mr-3\" data-v-387d06a1>Síguenos en: </span> <a href=\"#\" class=\"pattayaFont\" data-v-387d06a1>@codelandstudio</a></p></div><div class=\"flex items-center flex-wrap md:flex-nowrap space-x-0 md:space-x-3 px-3\" data-v-387d06a1><div class=\"w-1/3 md:w-1/5 p-2 md:p-0\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/3 md:w-1/5 p-2 md:p-0\" data-v-387d06a1><a href=\"http://instagram.com/p/CWtcfCWFeFI\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWtcfCWFeFI.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/3 md:w-1/5 p-2 md:p-0\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/3 md:w-1/5 p-2 md:p-0\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div><div class=\"w-1/3 md:w-1/5 p-2 md:p-0\" data-v-387d06a1><a href=\"http://instagram.com/p/CWgok0XloWB\" class=\"shadow-xl\" target=\"_blank\" data-v-387d06a1><img src=\"/img/instagram/CWgok0XloWB.png\" alt=\"Website de Codeland Studio\" data-v-387d06a1></a></div></div>", 2);
 
 var _hoisted_4 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -20763,10 +20763,10 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "pt-24 pb-60"
+  "class": "pt-10 md:pt-24 pb-40 md:pb-60"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-8/12 mx-auto flex items-center space-x-24\" data-v-48e17527><div class=\"w-1/2 relative\" data-v-48e17527><h3 class=\"text-6xl mb-10 text-primary\" data-v-48e17527>Fotografía</h3><p class=\"text-lg text-opacity-75 mb-10 text-primary\" data-v-48e17527> Sabemos lo importante que es realizar campañas constantes para alcanzar a tu audiencia y lo tedioso que puede ser el tener que diseñar tus publicaciones y mantener congruencia entre estas. </p><a href=\"#\" class=\"text-primary font-bold underline hover:text-opacity-75\" data-v-48e17527> Continuar leyendo </a></div><div class=\"w-1/2 relative wow animate__fadeInUp\" data-v-48e17527><img src=\"/img/Codeland_Studio_Foto_3.jpg\" class=\"w-full h-auto absolute z-1 imgBefore shadow-xl\" alt=\"\" data-v-48e17527><img src=\"/img/Codeland_Studio_Foto_5.jpg\" class=\"w-full h-auto relative z-5 shadow-xl\" alt=\"\" data-v-48e17527></div></div>", 1);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-10/12 md:w-8/12 mx-auto flex flex-col md:flex-row items-center space-y-10 md:space-y-0 space-x-0 md:space-x-24\" data-v-48e17527><div class=\"w-full md:w-1/2 relative\" data-v-48e17527><h3 class=\"text-2xl md:text-6xl mb-7 md:mb-10 text-primary\" data-v-48e17527>Fotografía</h3><p class=\"text-sm md:text-lg text-opacity-75 mb-7 md:mb-10 text-primary\" data-v-48e17527> Sabemos lo importante que es realizar campañas constantes para alcanzar a tu audiencia y lo tedioso que puede ser el tener que diseñar tus publicaciones y mantener congruencia entre estas. </p><a href=\"#\" class=\"text-primary font-bold underline hover:text-opacity-75\" data-v-48e17527> Continuar leyendo </a></div><div class=\"w-full md:w-1/2 relative wow animate__fadeInUp\" data-v-48e17527><img src=\"/img/Codeland_Studio_Foto_3.jpg\" class=\"w-full h-auto absolute z-1 imgBefore shadow-xl\" alt=\"\" data-v-48e17527><img src=\"/img/Codeland_Studio_Foto_5.jpg\" class=\"w-full h-auto relative z-5 shadow-xl\" alt=\"\" data-v-48e17527></div></div>", 1);
 
 var _hoisted_3 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -20794,10 +20794,10 @@ var _withScopeId = function _withScopeId(n) {
 };
 
 var _hoisted_1 = {
-  "class": "mt-24 py-24 bg-muted"
+  "class": "mt-10 md:mt-24 py-10 md:py-24 bg-muted"
 };
 
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-8/12 mx-auto flex items-center\" data-v-3f742c62><div class=\"w-2/3 relative\" data-v-3f742c62><div class=\"bgImgSquare bg-muted-dark z-1\" data-v-3f742c62></div><img src=\"/img/Codeland_Studio_Foto_6.jpg\" class=\"relative z-10 shadow-xl wow animate__fadeInUp\" alt=\"\" data-v-3f742c62><div class=\"absolute bottom-10 bg-muted p-4 text-3xl font-bold quote z-10 text-primary\" data-v-3f742c62> Nunca antes fue tan sencillo tener tu página web y en un ¡tiempo record! </div></div></div><div class=\"w-8/12 mx-auto flex items-center mt-20\" data-v-3f742c62><a href=\"#\" class=\"text-2xl mx-auto font-bold text-primary underline hover:text-opacity-75\" data-v-3f742c62> ¡Me interesa una página web! </a></div>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"w-full md:w-8/12 mx-auto flex items-center\" data-v-3f742c62><div class=\"w-2/3 relative\" data-v-3f742c62><div class=\"bgImgSquare bg-muted-dark z-1\" data-v-3f742c62></div><img src=\"/img/Codeland_Studio_Foto_6.jpg\" class=\"relative z-10 webDevelopmentImg shadow-xl wow animate__fadeInUp\" alt=\"\" data-v-3f742c62><div class=\"absolute bottom-10 bg-muted p-4 text-base leading-snug md:text-3xl font-bold quote z-20 text-primary\" data-v-3f742c62> Nunca antes fue tan sencillo tener tu página web y en un ¡tiempo record! </div></div></div><div class=\"w-full md:w-8/12 mx-auto flex items-center mt-20\" data-v-3f742c62><a href=\"#\" class=\"text-lg md:text-2xl mx-auto font-bold text-primary underline hover:text-opacity-75 text-center\" data-v-3f742c62> ¡Me interesa una página web! </a></div>", 2);
 
 var _hoisted_4 = [_hoisted_2];
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -21060,7 +21060,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  "class": "min-h-screen bg-light"
+  "class": "min-h-screen bg-light max-w-full overflow-x-hidden"
 };
 function render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_Loader = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Loader");
@@ -22109,7 +22109,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.bgImgSquare[data-v-0611cf68]{\r\n\t\tposition: absolute;\r\n\t\tbottom:30px;\r\n\t\tright: 80px;\r\n\t\twidth: 620px;\r\n\t\theight: 300px;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.bgImgSquare[data-v-0611cf68]{\r\n\t\tposition: absolute;\r\n\t\tbottom:30px;\r\n\t\tright: 80px;\r\n\t\twidth: 620px;\r\n\t\theight: 300px;\n}\n.coverImg[data-v-0611cf68]{\r\n\t\twidth: 100%;\r\n\t\theight: auto;\n}\n.coverIcon[data-v-0611cf68]{\r\n\t\twidth: 75px;\r\n\t\theight: 75px;\n}\n@media screen and (max-width: 640px){\n.bgImgSquare[data-v-0611cf68]{\r\n\t\t\tposition: absolute;\r\n\t\t\tbottom: -31px;\r\n\t\t\tright: 2px;\r\n\t\t\twidth: 225px;\r\n\t\t\theight: 150px;\n}\n.coverImg[data-v-0611cf68]{\r\n\t\t\tmax-width: 45vw;\r\n\t\t\twidth: 45vw;\r\n\t\t\theight: auto\n}\n.coverIcon[data-v-0611cf68]{\r\n\t\t\twidth: 40px;\r\n\t\t\theight: 40px;\n}\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -22205,7 +22205,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n.bgImgSquare[data-v-3f742c62]{\r\n  position: absolute;\r\n  background-color: #c8e7e7;\r\n  top: -40px;\r\n  left: 30px;\r\n  width: 620px;\r\n  height: 300px;\n}\n.quote[data-v-3f742c62]{\r\n  right: -344px;\r\n  width: 70%;\n}\r\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n.bgImgSquare[data-v-3f742c62]{\r\n  position: absolute;\r\n  background-color: #c8e7e7;\r\n  top: -40px;\r\n  left: 30px;\r\n  width: 620px;\r\n  height: 300px;\n}\n.quote[data-v-3f742c62]{\r\n  right: -344px;\r\n  width: 70%;\n}\n@media screen and (max-width: 640px){\n.bgImgSquare[data-v-3f742c62]{\r\n    top: -19px;\r\n    left: 19px;\r\n    width: 100%;\r\n    height: 172px;\n}\n.webDevelopmentImg[data-v-3f742c62]{\r\n    max-width: 80vw;\r\n    width: 80vw;\n}\n.quote[data-v-3f742c62]{\r\n    right: -76px;\r\n    width: 70%;\r\n    bottom: -58px;\n}\n}\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

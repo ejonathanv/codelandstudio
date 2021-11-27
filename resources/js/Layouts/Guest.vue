@@ -1,6 +1,6 @@
 <template>
     <Loader :loading="loading" />
-    <div class="min-h-screen bg-light">
+    <div class="min-h-screen bg-light max-w-full overflow-x-hidden">
         <Header />
         <Follow-Links />
         <slot />

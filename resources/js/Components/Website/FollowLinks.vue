@@ -1,9 +1,9 @@
 <template>
 	<div>
-		<div class="font-bold credits text-primary">
+		<div class="font-bold credits text-xs md:text-base text-primary hidden md:block">
 			2021, Codeland Studio, Calidad y Profesionalismo.
 		</div>
-		<div class="font-bold followLinks text-primary">
+		<div class="font-bold followLinks text-xs md:text-base text-primary">
 			Síguenos en <a href="#" class="underline">Instagram</a> y <a href="#" class="underline">Facebook</a>
 		</div>
 	</div>
